@@ -17,6 +17,6 @@
      } 
    }, 
    "buildpacks": [{ 
-     "url": "https://github.com/heroku/heroku-buildpack-python.git" 
+     "url": "https://app.circleci.com/pipelines/github/heroku/heroku-buildpack-python?invite=true" 
    }] 
  }
