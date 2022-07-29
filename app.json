@@ -1,7 +1,7 @@
 { 
-   "name": "Alcatraz Tagger Bot", 
-   "logo":"https://te.legra.ph/file/9297759dad7bac69eee9f.jpg",
-   "description": "Alcatraz Tagger Pulsuz şəkildə qrupunuzda hərkəsi tag edə bilər.", 
+   "name": "Alcatraz Tagger Bot", 
+   "logo":"https://te.legra.ph/file/9297759dad7bac69eee9f.jpg", 
+   "description": "Alcatraz Tag Pulsuz şəkildə qrupunuzda hərkəsi tag edə bilər.", 
    "env": { 
      "TOKEN": { 
        "description": "@botfather botdan ala bilərsən (Zəruri)", 
