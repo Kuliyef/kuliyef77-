@@ -3,7 +3,7 @@
    "logo":"https://te.legra.ph/file/9297759dad7bac69eee9f.jpg", 
    "description": "Alz Tag Pulsuz şəkildə qrupunuzda hərkəsi tag edə bilər.", 
    "env": { 
-     "TOKEN": { 
+     "BOT_TOKEN": { 
        "description": "@botfather botdan ala bilərsən (Zəruri)", 
        "value": "" 
      }, 
