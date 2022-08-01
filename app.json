@@ -1,7 +1,7 @@
 { 
-   "name": "Alcatraz Tag Bot", 
+   "name": "Rahid Tag Bot", 
    "logo":"https://te.legra.ph/file/9297759dad7bac69eee9f.jpg", 
-   "description": "Alcatraz Tag Pulsuz şəkildə qrupunuzda hərkəsi tag edə bilər.", 
+   "description": "Rahid Tag Pulsuz şəkildə qrupunuzda hərkəsi tag edə bilər.", 
    "env": { 
      "TOKEN": { 
        "description": "@botfather botdan ala bilərsən (Zəruri)", 
@@ -9,14 +9,14 @@
      }, 
      "APP_ID": { 
        "description": " my.telegram.org saytdan ala bilərsən (Zəruri)", 
-       "value": "9772409" 
+       "value": "" 
      }, 
      "API_HASH": { 
        "description": "my.telegram.org saytdan ala bilərsən (Zəruri)", 
-       "value": "315dbb97c74ef08f202db844fcae6807" 
+       "value": "" 
      } 
    }, 
    "buildpacks": [{ 
-     "url": "https://github.com/Kuliyef/Kuliyef77-" 
+     "url": "https://github.com/heroku/heroku-buildpack-python.git" 
    }] 
  }
