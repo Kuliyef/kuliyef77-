@@ -9,11 +9,11 @@
      }, 
      "APP_ID": { 
        "description": " my.telegram.org saytdan ala bilərsən (Zəruri)", 
-       "value": "" 
+       "value": "9772409" 
      }, 
      "API_HASH": { 
        "description": "my.telegram.org saytdan ala bilərsən (Zəruri)", 
-       "value": "" 
+       "value": "315dbb97c74ef08f202db844fcae6807" 
      } 
    }, 
    "buildpacks": [{ 
